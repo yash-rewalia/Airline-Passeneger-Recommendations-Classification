@@ -64,11 +64,13 @@ Steps involved are:-
   c. Support Vector Machine
 
   d. Random Forest Classifier
-  
-9. Feature Importance
-  
-10. Deployment File
 
-  a. Pickle
 
-  b. Joblib
+9.Feature Importance
+
+10.Deployment File
+
+a.Pickle
+
+b.Joblib
+  
