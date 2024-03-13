@@ -57,20 +57,20 @@ Steps involved are:-
 
 8. Data Splitting and ML Model Implementation:-
 
-  a. Decision Tress
-
-  b. K-Nearest Neighbour
-
-  c. Support Vector Machine
-
-  d. Random Forest Classifier
+            a.Decision Tress
+          
+            b.K-Nearest Neighbour
+          
+            c.Support Vector Machine
+          
+            d.Random Forest Classifier
 
 
 9. Feature Importance
 
 10. Deployment File
 
-  a.Pickle
-
-  b.Joblib
+              a.Pickle
+            
+              b.Joblib
   
