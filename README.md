@@ -36,7 +36,8 @@ This problem statement outlines the key objectives, challenges, and consideratio
 ![image](https://media.giphy.com/media/3ohc1fLZXOyhE4LOKc/giphy.gif?cid=790b76111m6jkxiorvqwjv0dmol4yn9pg3f8b0g0h0etfwz7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 # Objective
-The ultimate business objective is to leverage the regression model to provide accurate predictions of the closing price of AMRN stock, enabling stakeholders to make well-informed investment decisions, manage risks effectively, optimize portfolios, Early warning systems to alert any fraud cases and align investment strategies with financial goals.
+
+The primary objective is to deploy a robust classifier model that accurately predicts user recommendations, empowering airlines to strategize effectively, understand user behavior, optimize services, and align business strategies with financial objectives.
 
 Steps involved are:-
 
