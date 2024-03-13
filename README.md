@@ -41,21 +41,21 @@ The primary objective is to deploy a robust classifier model that accurately pre
 
 Steps involved are:-
 
-1.Know Your Data
+1. Know Your Data
 
-2.Understanding your Data
+2. Understanding your Data
 
-3.Data Cleaning
+3. Data Cleaning
 
-4.Data Manipulation
+4. Data Manipulation
 
-5.Data Visualization
+5. Data Visualization
 
-6.Hypothesis Testing
+6. Hypothesis Testing
 
-7.Feature Engineering & Data Pre-processing
+7. Feature Engineering & Data Pre-processing
 
-8.Data Splitting and ML Model Implementation:-
+8. Data Splitting and ML Model Implementation:-
 
   a. Decision Tress
 
@@ -66,11 +66,11 @@ Steps involved are:-
   d. Random Forest Classifier
 
 
-9.Feature Importance
+9. Feature Importance
 
-10.Deployment File
+10. Deployment File
 
-a.Pickle
+  a.Pickle
 
-b.Joblib
+  b.Joblib
   
